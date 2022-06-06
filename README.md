@@ -44,8 +44,8 @@ I have experience developing scalable web applications using React, using UI/UX 
 
 
 ## Stats
-<div style="display: inline-block" align="center">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=ThelmaGuerra&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0e1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThelmaGuerra&layout=compact&theme=tokyonight&border_radius=10&bg_color=0e1117"/>
+<div style="display: inline-block;" align="left">
+  <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=ThelmaGuerra&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0e1117"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThelmaGuerra&layout=compact&theme=tokyonight&border_radius=10&bg_color=0e1117"/>
 </div>
 
