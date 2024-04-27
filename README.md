@@ -14,9 +14,6 @@ Tenho conhecimentos em:
 - JUnit 
 - React.js
 - JavaScript
-
-Meu Portfólio: github.com/ThelmaGuerra
-Meu perfil: thelmaguerrag@gmail.com
 </div>
   
 <div style="display: inline-block", align="center">
