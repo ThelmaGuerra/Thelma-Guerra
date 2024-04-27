@@ -1,7 +1,22 @@
 <div align="center">
 <h1>Hello, I'm Thelma Guerra!</h1>
-I'm a Web developer, knowledgeable of the front-end development pipeline stages, including testing and deployment.
-I have experience developing scalable web applications using React, using UI/UX and OOP concepts.
+Desenvolvedora Back-end Jr com foco em Java, SpringBoot e SQL. Possuo vivência em microsserviços e desenvolvimento de software utilizando boas práticas de código (clean code), aplicando princípios SOLID, e arquitetura limpa. Atuação como team member, envolvendo squads internacionais com frequente uso da língua inglesa, como também diferentes tecnologias.
+
+Tenho conhecimentos em:
+- Java 8+
+- OOP
+- SpringBoot
+- MySQL
+- MongoDB
+- Node.js
+- Versionamento Git
+- Arquitetura de microsserviços
+- JUnit 
+- React.js
+- JavaScript
+
+Meu Portfólio: github.com/ThelmaGuerra
+Meu perfil: thelmaguerrag@gmail.com
 </div>
   
 <div style="display: inline-block", align="center">
